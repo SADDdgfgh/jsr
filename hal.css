@@ -1,0 +1,38 @@
+ body{
+	 background-color:white;
+ }
+ header{
+	 width:95% ;
+	 height:15%;
+	  
+ }
+ h1{
+	text-align: center;
+	color: blue;
+ }
+ h2{
+	text-align: center;
+	color: rgba(61, 29, 24, 0.815);
+ }
+ nav{
+    text-align: left;
+	color: rgb(0, 0, 0);
+ }
+h3{
+	border: 5px solid rgba(78, 35, 35, 0.658) ;
+	text-align: center;
+}
+img{
+	width:40% ;
+	height:40:%;
+	
+}
+aside{
+	border: 3px solid rebeccapurple ;
+	text-align: center;
+	
+}
+iframe{
+	width:50% ;
+	height:50%;
+}
